@@ -1,7 +1,6 @@
-# Homework-3---Part-3
+# Finite Elements Implementation over simulated plate
 
-## A) Using the same geometry as in the rest of homework 3.
-
+## A) Using the following  geometry 
 ### Quad9 implementation:
 
 ![image](https://user-images.githubusercontent.com/69252038/120533685-007fca00-c3af-11eb-9d85-e687c067546e.png)
